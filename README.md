@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=900&color=6F5BFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Talha+Hakeem+👋;C%23+%7C+.NET+Backend+Engineer;SQL+Server+Specialist;Building+Scalable+%26+Clean+Systems" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=900&color=6F5BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muhammad+Talha+Hakeem+👋;Professional+.NET+Backend+Developer;C%23+%7C+SQL+Server+%7C+ASP.NET+Core;Building+Scalable%2C+Secure+%26+Maintainable+Systems" 
       alt="Typing SVG"
     />
   </a>
@@ -35,40 +35,52 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a **Computer Science Student** and **Backend-focused .NET Engineer** with strong expertise in **C#**, **Object-Oriented Programming**, and **Relational Database Design**.
+I am a **.NET Backend Developer** with a solid command of **C#** and **SQL Server**, focused on building **robust, scalable, and production-ready applications**.
 
-I focus on writing **clean, maintainable, and scalable code** following **industry-level architectural principles**.
+I have already **mastered core backend fundamentals** and am now **deep-diving into advanced .NET technologies** to evolve toward **enterprise-level system design**.
 
-- 🔭 Currently building: **C# Desktop & Backend Applications**
-- 🌱 Learning: **ASP.NET Core, Entity Framework Core, LINQ**
-- 🗄️ Databases: **SQL Server (T-SQL, Stored Procedures, Optimization)**
-- 🎯 Goal: **Full-Stack .NET Architect**
+- 💼 Role Focus: **Backend / .NET Developer**
+- 🧠 Strong In: **C#, OOP, Database Design**
+- 🚀 Advancing In: **ASP.NET Core, Entity Framework Core, Web APIs**
+- 🎯 Long-Term Goal: **Senior .NET Architect**
 
 ---
 
-## 🧠 Technical Arsenal
+## 🧠 Core Technical Expertise
 
 <div align="center">
 
-| Backend & Core | Databases | Tools |
+| Backend & Language | Databases | Development Tools |
 | :--: | :--: | :--: |
-| ![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-Expert-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
-| ![.NET](https://img.shields.io/badge/.NET-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![OOP](https://img.shields.io/badge/OOP-Design_Principles-FFB13B?style=for-the-badge) | ![SSMS](https://img.shields.io/badge/SSMS-Tools-6B7280?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS_Code-Editor-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-Advanced-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-Primary_IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-Relational_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![OOP](https://img.shields.io/badge/OOP-SOLID_Principles-FFB13B?style=for-the-badge) | ![SSMS](https://img.shields.io/badge/SSMS-Database_Tooling-6B7280?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS_Code-Supporting_Editor-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-## 🏗️ Architectural Focus
+## 🏗️ .NET Architecture & Engineering Focus
 
-- Clean Architecture & Layered Design
-- SOLID Principles & OOP Best Practices
-- Repository & Unit of Work Pattern
+- Clean Architecture (Domain-Driven mindset)
+- SOLID Principles & Advanced OOP
+- Repository & Unit of Work Patterns
+- RESTful API Design (ASP.NET Core)
 - Secure Authentication & Authorization
-- Optimized SQL Queries & Indexing
+- Optimized SQL Queries, Indexing & Normalization
+- Error Handling, Logging & Performance Tuning
+
+---
+
+## 📈 Learning & Growth Path (.NET)
+
+- ✅ C# Language & OOP — **Completed**
+- ✅ SQL Server & Database Design — **Completed**
+- 🔄 ASP.NET Core MVC & Web APIs — **In Progress**
+- 🔄 Entity Framework Core — **In Progress**
+- ⏭️ Microservices, Cloud & System Design — **Next Target**
 
 ---
 
@@ -98,17 +110,18 @@ I focus on writing **clean, maintainable, and scalable code** following **indust
 
 ---
 
-## ✨ Profile Highlights
+## ✨ Engineering Highlights
 
-- Backend-first engineering mindset  
-- Production-ready, real-world projects  
-- Focus on performance, security & scalability  
+- Backend-first problem solving mindset  
+- Enterprise-ready coding practices  
+- Strong database & performance awareness  
+- Continuous learning & architectural growth  
 
 ---
 
 <!-- ================= FOOTER ================= -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"
   />
 </div>
