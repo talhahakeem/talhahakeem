@@ -54,23 +54,22 @@ Currently, I am expanding my expertise into advanced .NET architectures to build
 </div>
 
 ---
-
-### 📊 **Github Analytics**
-### 📊 **Github Analytics**
+### 🏆 **Achievements & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhahakeem&show_icons=true&theme=radical&hide_border=true" height="160" alt="Talha's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahakeem&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</div>
 
-<br />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=talhahakeem&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="talhahakeem" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhahakeem&theme=radical&hide_border=true" alt="Streak Stats" />
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhahakeem&theme=react-dark&hide_border=true" width="100%" />
+
 </div>
 
 ---
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
