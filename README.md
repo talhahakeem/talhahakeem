@@ -26,13 +26,14 @@
   <img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 </div>
 
+
 ### 👨‍💻 Who Am I?
 - 💼 **.NET Backend Developer**
 - 🧠 **C#, OOP, SQL Server**
-- 🚀 **ASP.NET Core & EF Core (Exploring Deeply)**
+- 🚀 **Actively learning ASP.NET Core & Entity Framework Core**
+- 📈 **Focused on backend performance & clean architecture**
 - 🎯 **Future: Senior .NET Architect**
 
----
 
 <!-- ================= CONNECT ================= -->
 ### 🌐 Connect With Me
@@ -49,54 +50,42 @@
 </p>
 
 ---
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
-<!-- ================= TECH STACK ================= -->
-## 🧠 Tech Stack
-
+<br/>
+<!-- Tech Stack Icons -->
 <div align="center">
-
-### 💻 Backend & Core
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" />
-
-</div>
-
----
-
-<!-- ================= ARCHITECTURE ================= -->
-## 🏗️ Engineering Focus
-<div align="center">
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-✔-success?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-APIs-purple?style=for-the-badge)
-![SQL](https://img.shields.io/badge/Optimized-SQL-red?style=for-the-badge)
-
-</div>
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talhahakeem&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahakeem&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,sqlserver,azure,postman,docker" />
 </div>
 
 <br/>
-
+<!-- Expertise Badges -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=talhahakeem&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/.NET%20Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-6DB33F?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1F1F1F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scalable%20Systems-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </div>
 
----
+<br/>
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=talhahakeem&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=talhahakeem&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=talhahakeem&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
 <!-- ================= FOOTER ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
