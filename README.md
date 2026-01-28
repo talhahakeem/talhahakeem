@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=6F5BFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;.NET+Backend+Developer;C%23+%7C+SQL+Server+%7C+ASP.NET+Core;Building+Scalable+Backend+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=6F5BFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;Junior+.NET+Developer;C%23+%7C+SQL+Server+%7C+ASP.NET+Core;Building+Scalable+Backend+Systems" />
   </a>
 </div>
 
@@ -27,12 +27,13 @@
 </div>
 
 
-### 👨‍💻 Who Am I?
-- 💼 **.NET Backend Developer**
-- 🧠 **C#, OOP, SQL Server**
-- 🚀 **Actively learning ASP.NET Core & Entity Framework Core**
-- 📈 **Focused on backend performance & clean architecture**
-- 🎯 **Future: Senior .NET Architect**
+### 👨‍💻 About Me
+- 🎓 **Computer Science Student**
+- 💼 **Junior .NET Developer**
+- 🧠 **Strong in C#, OOP & SQL Server**
+- 🚀 **Hands-on with ASP.NET Core Web API & MVC**
+- ☁️ **Basic exposure to Microsoft Azure & Cosmos DB**
+- 🎯 **Goal: Become a Professional .NET Software Engineer**
 
 
 <!-- ================= CONNECT ================= -->
