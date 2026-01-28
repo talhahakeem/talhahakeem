@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=6F5BFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;Junior+.NET+Developer;C%23+%7C+SQL+Server+%7C+ASP.NET+Core;Building+Scalable+Backend+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=6F5BFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;Junior+.NET+Developer;C%23+%7C+SQL+Server+%7C+ASP.NET+Core;Building+Scalable+Backend+Systems+using+Microsoft+Technologies" />
   </a>
 </div>
 
