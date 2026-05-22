@@ -1,93 +1,145 @@
-<!-- ================= HERO ================= -->
+<!-- ================= PREMIUM HERO ================= -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:312E81,70:512BD4,100:00D4FF&text=Muhammad%20Talha%20Hakeem&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Junior%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server%20%7C%20Azure%20Services&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=6F5BFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;Junior+.NET+Developer;C%23+%7C+SQL+Server+%7C+ASP.NET+Core;Backend+Systems+using+Microsoft+Technologies" />
-  </a>
-</div>
-
----
 
 <!-- ================= QUICK INFO ================= -->
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=talhahakeem&label=Profile%20Views&color=6F5BFF&style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=talhahakeem&label=Profile%20Views&color=512BD4&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Junior%20.NET%20Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Focused-00D4FF?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-</div>
-
+<!-- ================= ABOUT ================= -->
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
 ### 👨‍💻 About Me
-- 🎓 **Computer Science Student**
-- 💼 **Junior .NET Developer**
-- 🧠 **Strong in C#, OOP & SQL Server**
-- 🚀 **Hands-on with ASP.NET Core Web API & MVC**
-- ☁️ **Basic exposure to Microsoft Azure & Cosmos DB**
-- 🎯 **Goal: Become a Professional .NET Software Engineer**
 
+- 💼 **Junior .NET Developer at ZeteoBit**
+- 🚀 Working with **C#, ASP.NET Core Web API, ASP.NET Core MVC, SQL Server & Entity Framework Core**
+- 🔧 Focused on **REST APIs, CRUD operations, database-driven applications, validation, debugging & clean code**
+- ☁️ Working with **Azure services** as part of cloud-based development and deployment practices
+- 🎯 Goal: Grow into a **Full Stack .NET Developer**
+
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 <!-- ================= CONNECT ================= -->
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/talhahakeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:talhahakeem.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/talhahakeem">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/itx_talhamalik">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+<!-- ================= TECH STACK ================= -->
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
 <br/>
-<!-- Tech Stack Icons -->
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,sqlserver,azure,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,azure,postman,html,css,bootstrap" />
 </div>
 
 <br/>
-<!-- Expertise Badges -->
+
 <div align="center">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF%20Core-6DB33F?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1F1F1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scalable%20Systems-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 <br/>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=talhahakeem&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=talhahakeem&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=talhahakeem&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-1F1F1F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP%20Principles-0F172A?style=for-the-badge" />
 </div>
 
-<br/><br/>
+<br/>
 
-<hr/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Database%20Driven%20Apps-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- ================= STATS ================= -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<br/>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=talhahakeem&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=talhahakeem&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=talhahakeem&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+
+---
+
+<!-- ================= GITHUB HIGHLIGHTS ================= -->
+<h2 align="center">🏆 GitHub Highlights 🏆</h2>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=talhahakeem&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</div>
+
+<br/>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+<h2 align="center">📈 Contribution Activity 📈</h2>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhahakeem&theme=react-dark&hide_border=true&area=true&radius=15&custom_title=Muhammad%20Talha%20Hakeem's%20GitHub%20Activity" />
+</div>
+
+<br/>
+
+---
+
 <!-- ================= FOOTER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:512BD4,100:020617&height=150&section=footer"/>
 </div>
