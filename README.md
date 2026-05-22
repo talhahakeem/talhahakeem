@@ -1,8 +1,10 @@
 <!-- ================= PREMIUM HERO ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:312E81,70:512BD4,100:00D4FF&text=Muhammad%20Talha%20Hakeem&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Junior%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server%20%7C%20Azure%20Services&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=900&color=00D4FF&center=true&vCenter=true&width=980&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;Junior+.NET+Developer+at+ZeteoBit;C%23+%7C+ASP.NET+Core+Web+API+%7C+MVC+%7C+SQL+Server;Building+Clean+and+Scalable+Backend+Applications" />
+  </a>
 </div>
-
+<br/>
 <!-- ================= QUICK INFO ================= -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=talhahakeem&label=Profile%20Views&color=512BD4&style=for-the-badge" />
