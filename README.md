@@ -13,13 +13,6 @@
   <img src="https://img.shields.io/badge/Azure%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 <br/>
-<div align="center">
-<a href="https://rankistan.dev">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ftalhahakeem&style=for-the-badge" alt="Rankistan rank badge">
-</a>
-  </div>
-<br/>
-
 <!-- ================= ABOUT ================= -->
 <table>
   <tr>
