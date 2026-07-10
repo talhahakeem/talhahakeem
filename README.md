@@ -122,18 +122,12 @@
 
 <br/>
 
----
-
-<!-- ================= GITHUB HIGHLIGHTS ================= -->
-<h2 align="center">🏆 GitHub Highlights 🏆</h2>
+<!-- ================= GITHUB METRICS ================= -->
+<h2 align="center">🚀 GitHub Overview 🚀</h2>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=talhahakeem&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhahakeem&theme=github_dark" width="100%" />
 </div>
-
-<br/>
-
----
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 <h2 align="center">📈 Contribution Activity 📈</h2>
