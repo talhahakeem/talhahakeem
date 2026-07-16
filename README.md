@@ -1,14 +1,16 @@
 <!-- ================= PREMIUM HERO ================= -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=900&color=00D4FF&center=true&vCenter=true&width=980&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;Junior+.NET+Developer+at+ZeteoBit;C%23+%7C+ASP.NET+Core+Web+API+%7C+MVC+%7C+SQL+Server;Building+Clean+and+Scalable+Backend+Applications" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=900&color=00D4FF&center=true&vCenter=true&width=980&lines=Hi+👋+I'm+Muhammad+Talha+Hakeem;.NET+Developer;ASP.NET+Core+%7C+React.js+%7C+SQL+Server;Building+Modern+Full+Stack+Web+Applications" />
   </a>
 </div>
+
 <br/>
 <!-- ================= QUICK INFO ================= -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=talhahakeem&label=Profile%20Views&color=512BD4&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Junior%20.NET%20Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend%20Focused-00D4FF?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
@@ -27,12 +29,12 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Junior .NET Developer at ZeteoBit**
-- 🚀 Working with **C#, ASP.NET Core Web API, ASP.NET Core MVC, SQL Server & Entity Framework Core**
-- 🔧 Focused on **REST APIs, CRUD operations, database-driven applications, validation, debugging & clean code**
-- ☁️ Working with **Azure services** as part of cloud-based development and deployment practices
-- 🎯 Goal: Grow into a **Full Stack .NET Developer**
-
+- 🎓 **BS Computer Science Student** with a passion for **.NET Full Stack Development**
+- 💻 Experienced with **C#, ASP.NET Core, React.js, Entity Framework Core, SQL Server & RESTful APIs**
+- 🚀 Building scalable web applications using modern development practices
+- 🛠️ Strong interest in **backend development, API design, database integration, and clean architecture**
+- 📚 Continuously learning, building projects, and improving software engineering skills
+- 🎯 Working towards becoming a professional **Full Stack .NET Developer**
     </td>
     <td width="42%" align="center" valign="middle">
       <img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
