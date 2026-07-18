@@ -131,6 +131,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhahakeem&theme=github_dark" width="100%" />
 </div>
 
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
+</div>
+
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 <h2 align="center">📈 Contribution Activity 📈</h2>
 
@@ -141,8 +148,13 @@
 <br/>
 
 ---
+<!-- Footer Message -->
+<p align="center">
+  <samp>
+    <b>🔥 "I don't just write code — I solve problems, build systems, and ship products." 🔥</b><br/><br/>
+    <b>💬 Feel free to reach out — let's build something amazing together! 🚀</b>
+  </samp>
+</p>
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:512BD4,100:020617&height=150&section=footer"/>
-</div>
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
